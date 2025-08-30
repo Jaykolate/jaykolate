@@ -24,7 +24,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
--# 💫 About Me:
 - 👋 Hi, I'm Jay Shrimant Kolate!  
 - 🎓 Computer Science Engineering Student (2023–2027) at Sinhgad Institute of Technology and Sciences  
 - 💡 Passionate about Web Development (MERN), DSA, and AI  
