@@ -157,7 +157,7 @@
 
 </div>
 <!-- Or create a dedicated LeetCode section -->
- ![](https://leetcard.jacoblin.cool/jay_kolate21?ext=heatmap)
+ (https://leetcard.jacoblin.cool/jay_kolate21?ext=heatmap)
 
 ---
 
