@@ -111,9 +111,9 @@
 - 📝 Upload/Download notes
 - ⭐ Rate & review system
 - 🔍 Smart search
-- 👥 Study groups
+-   Both Notes and papers
 
-**Tech:** `React` `Node.js` `MongoDB` `Express` `AWS S3` `Socket.io`
+**Tech:** `HTML,CSS` `Node.js` `MongoDB` `Express` 
 
 [🔗 Try it out](#) | [🎥 Demo Video](#)
 
