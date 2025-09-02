@@ -81,7 +81,7 @@
 
 **Tech:** `Python` `Tkinter` `Pandas` `SMTP` `WhatsApp API`
 
-[🔗 View Project](#) | [📝 Documentation](#)
+[🔗 View Project](#) | [📝 Documentation](https://drive.google.com/file/d/1zQJfDUogGDRSEm8IMY3YyXyhLW52tylw/view?usp=sharing)
 
 ---
 
