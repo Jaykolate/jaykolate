@@ -74,12 +74,12 @@
 > 🎯 **Smart Performance Tracker** - Automates student performance analysis with email/WhatsApp alerts
 
 **Features:**
-- 📈 Real-time performance analytics
+- 📈 Data Integration
 - 📧 Automated email notifications
-- 📱 WhatsApp integration
+- 📱 Custom Alerts
 - 📊 Excel data processing
 
-**Tech:** `Python` `Tkinter` `Pandas` `SMTP` `WhatsApp API`
+**Tech:** `Python` `Tkinter` `Pandas` `SMTP` 
 
 [🔗 View Project](#) | [📝 Documentation](https://drive.google.com/file/d/1zQJfDUogGDRSEm8IMY3YyXyhLW52tylw/view?usp=sharing)
 
