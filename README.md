@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Java Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | Java | Python | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Solving+problems+with+code;Always+learning%2C+always+growing" alt="Typing SVG" />
