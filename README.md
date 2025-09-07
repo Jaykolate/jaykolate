@@ -120,6 +120,23 @@
 </details>
 
 ---
+### ✅ To-Do List with Login & Signup
+<img align="right" src="https://img.shields.io/badge/HTML-CSS-JS-orange?style=for-the-badge&logo=javascript&logoColor=white" />
+
+> 📝 **Simple productivity app** – Manage daily tasks with login & signup authentication (demo only)
+
+**Features:**
+- ➕ Add tasks
+- ❌ Delete tasks (with confirmation popup)
+- 🔑 Login / Signup forms
+- 🚪 Logout option
+- 🎨 Clean responsive UI
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+[🔗 Live Demo](#) | [💻 Source Code](https://github.com/JayKolate/todo-list-app)
+
+---
 
 ## 📊 GitHub Analytics
 
