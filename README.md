@@ -1,148 +1,54 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Jay Kolate!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
-
-<h3 align="center">🚀 Full-Stack Developer | Java | Python | Problem Solver</h3>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Solving+problems+with+code;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hey,+I'm+Jay+Kolate!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayKolate&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/JayKolate?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;💡+Problem+Solver+%7C+AI+Explorer;Always+learning,+always+growing!">
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me  
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👋 Hi, I'm Jay Shrimant Kolate!  
-- 🎓 Computer Science Engineering Student (2023–2027) at Sinhgad Institute of Technology and Sciences  
-- 💡 Passionate about Web Development (MERN), DSA, and AI  
-- 🚀 Currently learning Java DSA, MERN Stack, and ML Engineering  
-- 🎯 Goal: To become a Full-Stack Developer  
-- 🌱 Learning **Advanced React Patterns** and **System Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, MERN Stack, DSA**
-- ⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
-
-<br clear="both">
+- 🎓 **Computer Engineering (2023–2027)** @ SIT, Pune  
+- 🔭 Passionate about **MERN Stack, Java DSA & AI**  
+- 🚀 Exploring **System Design + Advanced React Patterns**  
+- 👯 Open to collaborate on **Open Source Projects**  
+- 💬 Ask me about **Java | MERN | DSA**  
+- ⚡ Fun fact: *I debug with console.log 😄*  
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🔥 Languages & Frameworks</b></summary>
-<br>
+## 🛠️ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,bootstrap,mysql,firebase,git,github,vscode&perline=8" />
 </p>
 
-</details>
+---
 
-<details open>
-<summary><b>🔧 Tools & Technologies</b></summary>
-<br>
+## 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mysql,vercel,netlify" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=advanced-student-monitoring&theme=tokyonight" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=rewear-platform&theme=tokyonight" /></a>
 </p>
 
-</details>
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=noteshare&theme=tokyonight" /></a>
+  <a href="https://github.com/JayKolate/todo-list-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=todo-list-app&theme=tokyonight" /></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>Click to explore my work!</b></summary>
-<br>
-
-### 📊 Advanced Student Monitoring System
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
-> 🎯 **Smart Performance Tracker** - Automates student performance analysis with email/WhatsApp alerts
-
-**Features:**
-- 📈 Data Integration
-- 📧 Automated email notifications
-- 📱 Custom Alerts
-- 📊 Excel data processing
-
-**Tech:** `Python` `Tkinter` `Pandas` `SMTP` 
-
-[🔗 View Project](#) | [📝 Documentation](https://drive.google.com/file/d/1zQJfDUogGDRSEm8IMY3YyXyhLW52tylw/view?usp=sharing)
-
----
-
-### 👕 ReWear - Sustainable Fashion Platform
-<img align="right" src="https://img.shields.io/badge/MERN-success?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-> ♻️ **Eco-Friendly Fashion Hub** - Promoting sustainable living through clothing reuse
-
-**Features:**
-- 🛍️ Donate/Exchange clothes
-- 🌱 Carbon footprint tracker
-- 👥 Community marketplace
-- 📍 Local pickup points
-
-**Tech:** `MongoDB` `Express.js` `React` `Node.js` `JWT` `Stripe API`
-
-[🔗 Live Demo](#) | [💻 Source Code](#)
-
----
-
-### 📚 NoteShare - Collaborative Learning Platform
-<img align="right" src="https://img.shields.io/badge/MERN-success?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-> 📖 **Student Knowledge Hub** - Share notes, ace exams together!
-
-**Features:**
-- 📝 Upload/Download notes
-- ⭐ Rate & review system
-- 🔍 Smart search
--   Both Notes and papers
-
-**Tech:** `HTML,CSS` `Node.js` `MongoDB` `Express` 
-
-[🔗 Try it out](#) | [🎥 Demo Video](#)
-
-</details>
-
----
-### ✅ To-Do List with Login & Signup
-<img align="right" src="https://img.shields.io/badge/HTML-CSS-JS-orange?style=for-the-badge&logo=javascript&logoColor=white" />
-
-> 📝 **Simple productivity app** – Manage daily tasks with login & signup authentication (demo only)
-
-**Features:**
-- ➕ Add tasks
-- ❌ Delete tasks (with confirmation popup)
-- 🔑 Login / Signup forms
-- 🚪 Logout option
-- 🎨 Clean responsive UI
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-[🔗 Live Demo](#) | [💻 Source Code](https://github.com/JayKolate/todo-list-app)
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayKolate&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JayKolate&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JayKolate&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JayKolate&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -151,63 +57,36 @@
 
 ---
 
-
-
-## 🏅 Achievement Showcase
-
-<div align="center">
-  
-### 🎊 Special Recognition
-
-<img src="https://img.shields.io/badge/🏆_LeetCode_50_Days_Badge-Earned_2025-gold?style=for-the-badge&labelColor=black&logo=leetcode" />
-
-<details>
-<summary><b>🔍 View My Coding Journey</b></summary>
-<br>
-
-- 🔥 **50 Days Badge**: Solved problems for 50 consecutive days
-- 📈 **Total Problems**: 100+ solved across all difficulty levels
-- 💪 **Strengths**: Arrays, Dynamic Programming, Trees
-- 🎯 **Current Focus**: System Design & Advanced Algorithms
-
-</details>
-
-</div>
-<!-- Or create a dedicated LeetCode section -->
- (https://leetcard.jacoblin.cool/jay_kolate21?ext=heatmap)
-
----
-
-## 🤝 Let's Connect!
+## 🏆 Achievements  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jay-kolate-b97753304/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jaykolate529@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/JayKolate">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=JayKolate&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jay_kolate21?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
 
-## 💭 Random Dev Quote
+## 🤝 Connect With Me  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/jay-kolate-b97753304/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:jaykolate529@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/JayKolate"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
-  Thanks for visiting! Let's build something amazing together!
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-</h3>
+## 💭 Dev Quote  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
