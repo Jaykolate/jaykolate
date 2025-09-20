@@ -32,17 +32,49 @@
 
 ## 🚀 Featured Projects  
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=advanced-student-monitoring&theme=tokyonight" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=rewear-platform&theme=tokyonight" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=noteshare&theme=tokyonight" /></a>
-  <a href="https://github.com/JayKolate/todo-list-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayKolate&repo=todo-list-app&theme=tokyonight" /></a>
-</p>
+### 📊 Advanced Student Monitoring System  
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>  
+
+🎯 Smart performance tracker for students with **automated reports + email/WhatsApp alerts**  
+
+🔗 [View Project](#) | 📘 [Documentation](https://drive.google.com/file/d/1zQJfDUogGDRSEm8IMY3YyXyhLW52tylw/view?usp=sharing)  
 
 ---
+
+### 👕 ReWear – Sustainable Fashion Platform  
+<a href="#"><img src="https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></a>  
+
+♻️ Eco-friendly fashion hub for **clothing exchange, donations, and carbon footprint tracking**  
+
+🔗 [Live Demo](#) | 💻 [Source Code](#)  
+
+---
+
+### 📚 NoteShare – Collaborative Learning Platform  
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>  
+
+📖 A student knowledge hub to **upload, share, and rate notes & papers**  
+
+🔗 [Try it out](#) | 🎥 [Demo Video](#)  
+
+---
+
+### ✅ To-Do List App (with Login/Signup)  
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>  
+
+📝 Simple productivity app with **task management + login authentication (demo only)**  
+
+🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/JayKolate/todo-list-app)  
+
+</div>
 
 ## 📊 GitHub Analytics  
 
