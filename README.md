@@ -136,6 +136,21 @@
       </div>
     </td>
   </tr>
+   <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>👤 Personal portfolio </h3>
+        <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="NoteShare"></a>
+        <p>A responsive portfolio showcasing my projects, skills, and achievements. Built with a modern tech stack for smooth performance and interactivity..</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        </p>
+        <p><b><a href="https://github.com/jaykolate/personal-portfolio">📱 Source code</a></b> ● <b><a href="jaykolate.sitsitcell.com">📱 Try it out</a></b></p>
+      </div>
+    </td>
+    </tr>
 </table>
 
 <div align="center">
