@@ -76,23 +76,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📊 Advanced Student Monitoring System</h3>
-        <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="Student Monitoring System"></a>
-        <p>An automated system for generating student performance reports, featuring data visualization and email/WhatsApp integration.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-          <img src="https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-        </p>
-        <p><b><a href="#">📋 Documentation</a></b> ● <b><a href="#">🔗 Demo</a></b></p>
-      </div>
-    </td>
     <td width="50%" valign="top">
       <div align="center">
         <h3>👕 ReWear – Sustainable Fashion Platform</h3>
@@ -107,24 +91,7 @@
         <p><b><a href="#">🌐 Live Demo</a></b> ● <b><a href="#">💻 Source Code</a></b></p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📚 NoteShare – Learning Platform</h3>
-        <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="NoteShare"></a>
-        <p>A collaborative knowledge hub for sharing, rating, and managing academic notes and resources with advanced search.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        </p>
-        <p><b><a href="#">📱 Try it out</a></b> ● <b><a href="#">🎥 Demo Video</a></b></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>✅ Smart To-Do Application</h3>
+  
         <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="Smart To-Do"></a>
         <p>A productivity tool for task management, featuring user authentication, progress tracking, and deadline reminders.</p>
         <p>
@@ -135,24 +102,7 @@
         <p><b><a href="#">🔗 Live Demo</a></b> ● <b><a href="#">💻 Source Code</a></b></p>
       </div>
     </td>
-  </tr>
-   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>👤 Personal portfolio </h3>
-        <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="NoteShare"></a>
-        <p>A responsive portfolio showcasing my projects, skills, and achievements. Built with a modern tech stack for smooth performance and interactivity..</p>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        </p>
-        <p><b><a href="https://github.com/jaykolate/personal-portfolio">📱 Source code</a></b> ● <b><a href="jaykolate.sitsitcell.com">📱 Try it out</a></b></p>
-      </div>
-    </td>
-    </tr>
-</table>
-
+  
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
