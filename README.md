@@ -77,32 +77,6 @@
 </div>
 
 
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>👕 ReWear – Sustainable Fashion Platform</h3>
-        <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="ReWear"></a>
-        <p>An eco-friendly MERN stack marketplace for exchanging and donating clothing, featuring carbon footprint tracking and rewards.</p>
-        <p>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        </p>
-        <p><b><a href="#">🌐 Live Demo</a></b> ● <b><a href="#">💻 Source Code</a></b></p>
-      </div>
-    </td>
-  
-        <a href="#"><img src="https://placehold.co/400x200/0d1117/FFFFFF?text=Project+Screenshot" alt="Smart To-Do"></a>
-        <p>A productivity tool for task management, featuring user authentication, progress tracking, and deadline reminders.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        </p>
-        <p><b><a href="#">🔗 Live Demo</a></b> ● <b><a href="#">💻 Source Code</a></b></p>
-      </div>
-    </td>
-  
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
