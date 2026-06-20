@@ -11,7 +11,7 @@ Full Stack Developer | Computer Engineering Student @ SITS, Pune (2023–2027)
 ### About
 
 - 🎓 Computer Engineering student, focused on full-stack development
-- 🔭 Currently exploring React patterns and system design
+- 🔭 Exploring the intersection of AI and practical backend systems
 - 🤝 Open to collaboration and open-source contributions
 
 ---
