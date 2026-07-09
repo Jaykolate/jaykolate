@@ -51,6 +51,18 @@ Computer Engineering student at SITS Pune passionate about Backend Development, 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jaykolate&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayKolate&theme=default&hide_border=true"/>
+</div>
+
+LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/jay_kolate21?theme=light&font=Karla&ext=heatmap"/>
+</div>
+
 ### 📈 Contribution Graph
 
 <p align="center">
