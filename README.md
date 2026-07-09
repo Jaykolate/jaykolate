@@ -1,91 +1,61 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/jaykolate">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Jay%20Kolate" alt="Hello! I&#39;m Jay Kolate" />
+  </a>
+</p>
 
-# Hi, I'm Jay Kolate 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=535&height=44&lines=Full%20Stack%20Developer;Learning.%20Building.%20Contributing." alt="Typing headlines" />
+</p>
 
-**Full Stack Developer | Data/ML Enthusiast | Computer Engineering @ SITS, Pune (2023–2027)**
+### 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jay-kolate-b97753304/)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:jaykolate529@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayKolate)
+Computer Engineering student at SITS Pune passionate about Backend Development, AI/ML, and Open Source. I enjoy building scalable web applications, solving DSA problems, and contributing to impactful projects.
 
-</div>
+🔭 &nbsp;I'm currently working on **Open Source Contributions &amp; PairCode – Real-time Collaborative Code Editor**  
+🌱 &nbsp;I'm currently learning **Backend Development, Node.js, Express &amp; AI/ML**  
+👯 &nbsp;I'm looking to collaborate on **Open Source Projects &amp; Backend Development**  
+💬 &nbsp;Ask me about **Java, DSA, Backend Development, Node.js &amp; Git**  
+⚡ &nbsp;Fun fact: **I enjoy solving challenging DSA problems and building projects that solve real-world problems.**
 
----
+### 🛠️ Tech Stack
 
-### About Me
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-- 🎓 Final-year Computer Engineering student (CGPA: 9.07)
-- 💻 Building full-stack products with a growing focus on AI/ML integration
-- 🔭 Currently exploring Data/ML Engineering roles alongside full-stack development
-- 🌱 Sharpening DSA skills through consistent competitive programming practice
-- 🤝 Open to collaboration, open-source contributions, and interesting side projects
+### 🔗 Connect With Me
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/jay-kolate-b97753304/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jaykolate.github.io/personal-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:jaykolate529@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### Tech Stack
+### 📊 GitHub Stats
 
-**Languages:** ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jaykolate&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jaykolate&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss) ![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=javascript)
+### 📈 Contribution Graph
 
-**Backend:** ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-
-**Database:** ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-**AI / Cloud:** ![Gemini](https://img.shields.io/badge/-Gemini_API-black?style=flat-square&logo=googlegemini) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn) 
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
----
-
-### Featured Projects
-
-- **[PairCode](https://github.com/JayKolate)** — Real-time collaborative code editor with live code execution (React, Socket.IO, CodeMirror, Judge0, Gemini AI, MongoDB, JWT)
-- **[HireTrack](https://github.com/JayKolate)** — Job application tracker built with an MVC architecture (Node.js, Express, MySQL, Clerk Auth, EJS)
-- **[Threadly](https://github.com/JayKolate)** — Sustainable fashion e-commerce platform (MERN, Stripe, Gemini AI, Socket.IO, Cloudinary)
-- **[EventFlow](https://github.com/JayKolate)** — QR-based event check-in system built during my internship at Elite Softwares (Django, Python)
-
----
----
-
-### Open Source Contributions
-
-🏆 Contributor at:
-
-![ECSoC](https://img.shields.io/badge/Contributor-ECSoC-blueviolet?style=flat-square)
-![ELUSoc](https://img.shields.io/badge/Contributor-ELUSoc-blueviolet?style=flat-square)
-![Apertre 3.0](https://img.shields.io/badge/Contributor-Apertre_3.0-blueviolet?style=flat-square)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JayKolate&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayKolate&layout=compact&theme=default&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayKolate&theme=default&hide_border=true"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaykolate&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-
-### LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/jay_kolate21?theme=light&font=Karla&ext=heatmap"/>
-</div>
-
-
-
-
----
-
-<div align="center">
-
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jay-kolate-b97753304/) [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:jaykolate529@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayKolate)
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/jaykolate">jaykolate</a></i></p>
