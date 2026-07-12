@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/jaykolate">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaykolate/jaykolate/main/dark_mode.svg">
-      <img alt="jaykolate" src="https://raw.githubusercontent.com/jaykolate/jaykolate/main/light_mode.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaykolate/jaykolate/main/dark_mode.svg (1)">
+      <img alt="jaykolate" src="https://raw.githubusercontent.com/jaykolate/jaykolate/main/light_mode.svg (2)">
     </picture>
   </a>
 </p>
