@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/jaykolate">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Jay%20Kolate" alt="Hello! I&#39;m Jay Kolate" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaykolate/jaykolate/main/dark_mode.svg">
+      <img alt="jaykolate" src="https://raw.githubusercontent.com/jaykolate/jaykolate/main/light_mode.svg">
+    </picture>
   </a>
 </p>
 
