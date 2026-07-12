@@ -1,4 +1,6 @@
-
+<p align="center">  
+  <a href="https://github.com/jaykolate">    
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Jay%20Kolate" alt="Hello! I&#39;m Jay Kolate" />  </a></p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=535&height=44&lines=Full%20Stack%20Developer;Learning.%20Building.%20Contributing." alt="Typing headlines" />
