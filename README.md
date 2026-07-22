@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=535&height=44&lines=Full%20Stack%20Developer;Learning.%20Building.%20Contributing." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
-
-Computer Engineering student at SITS Pune passionate about Backend Development, AI/ML, and Open Source. I enjoy building scalable web applications, solving DSA problems, and contributing to impactful projects.
-
-🔭 &nbsp;I'm currently working on **Open Source Contributions &amp; PairCode – Real-time Collaborative Code Editor**  
-🌱 &nbsp;I'm currently learning **Backend Development, Node.js, Express &amp; AI/ML**  
-👯 &nbsp;I'm looking to collaborate on **Open Source Projects &amp; Backend Development**  
-💬 &nbsp;Ask me about **Java, DSA, Backend Development, Node.js &amp; Git**  
-⚡ &nbsp;Fun fact: **I enjoy solving challenging DSA problems and building projects that solve real-world problems.**
 
 ### 🛠️ Tech Stack
 
